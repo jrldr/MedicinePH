@@ -1,0 +1,6 @@
+{
+  "name": "Medicine Assistant",
+  "description": "Philippines OTC Medicine Dosage & Safety Calculator based on age and weight, built as an offline-ready installable PWA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
